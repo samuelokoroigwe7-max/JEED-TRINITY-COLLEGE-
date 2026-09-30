@@ -1,2 +1,2 @@
-# JEED-TRINITY-COLLEGE-
+#jeed-trinity-college
 A HTML/CSS FILE 
